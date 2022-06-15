@@ -30,7 +30,8 @@ Tensorflow 2.x
 Python 3.6
 
 ## DOI & Zenodo
-The link below leads to a repository for related data for the manuscript.
+The following link leads to a repository for related data for the manuscript.
+https://doi.org/10.5281/zenodo.6637951
 
 ## Contact
 Please contact Mintae Chung (mtjung71@gmail.com) for questions.
