@@ -36,4 +36,4 @@ The link below leads to a repository for related data for the manuscript.
 Please contact Mintae Chung (mtjung71@gmail.com) for questions.
 
 ## License
-(I need to check)This project is covered under the Creative Common (CC BY NC) License. The data and code are available for non-commercial research purposes only with proper citation to the aforementioned manuscript.
+This project is covered under the Creative Common (CC BY NC) License. The data and code are available for non-commercial research purposes only with proper citation to the aforementioned manuscript.
